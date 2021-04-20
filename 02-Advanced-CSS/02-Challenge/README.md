@@ -38,15 +38,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+![portfolio demo](./02-advanced-css-homework-demo.gif)
 
 ## Review
 
 You are required to submit BOTH of the following for review:
 
--   The URL of the deployed application.
+- The URL of the deployed application.
 
--   The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
 ---
 
